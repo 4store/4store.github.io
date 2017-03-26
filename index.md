@@ -1,3 +1,3 @@
 ## 4store website
 
-Please use https://4store.danielknoell.de/ mirror until https://github.com/garlik/4store/issues/137 is resolved. 
+Please use [Daniel Knöll's mirror](https://4store.danielknoell.de/) until [Bug 137](https://github.com/garlik/4store/issues/137) is resolved. 
